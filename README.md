@@ -57,5 +57,7 @@
 ### 21. Component production build
 
 ### 22. Publish component as a package
+>- npm login
+>- npm whoami
 
 ### 23. Add sass to define component style
