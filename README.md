@@ -65,3 +65,21 @@
 ### 23. Add sass to define component style
 
 ### 24. Enable SASS loading in demo site configuration
+
+### 25. Commit SASS support
+
+### 26. Update component as a package
+
+### 27. Add npm version badge yo the repository home
+
+### 28. Commit nom badge
+
+### 29. Use component in a project
+
+### 30. Update demo site
+
+### 31. Add demo site badge next to the npm badge
+
+## Sección 4: Thank you
+
+### 32. A special thank you
