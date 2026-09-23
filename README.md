@@ -60,6 +60,8 @@
 >- npm login
 >- npm whoami
 >- npm version 1.0.0
->- npm publish
+>- npm publish --otp=123456 # sustituye 123456 por el código temporal de tu app 2FA
 
 ### 23. Add sass to define component style
+
+### 24. Enable SASS loading in demo site configuration

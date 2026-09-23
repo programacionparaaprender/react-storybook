@@ -4,7 +4,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
 
-
+import CustomButton from './components/custom-button/custom-button.jsx';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -25,6 +25,9 @@ function App() {
         </div>
         <div>
           {count}
+        </div>
+        <div>
+          <CustomButton />
         </div>
         <button
           type="button"
