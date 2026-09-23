@@ -13,6 +13,21 @@
   "bin":{
     "react-storybook":"src/main.jsx"
   },
+  "description": "Proyecto de ejemplo de react con storybook",
+  "main": "src/main.jsx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/programacionparaaprender/react-storybook.git"
+  },
+  "keywords": [
+    "git",
+    "push",
+    "-u",
+    "origin",
+    "main"
+  ],
+  "author": "Programacion para Aprender",
+  "license": "MIT",
   "dependencies": {
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
